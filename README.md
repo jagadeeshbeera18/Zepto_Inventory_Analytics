@@ -59,6 +59,3 @@ The SQL examples include:
 - The script deletes rows where `mrp = 0`. Review the affected records and consider running the cleaning steps on a copy or inside a transaction first.
 - The SQL files contain analysis queries as well as data-changing statements. Read each statement before executing it on a database you need to preserve.
 
-## License and data source
-
-No license or dataset attribution is included in the project files. Add the appropriate license and source attribution here before publishing the repository publicly.
